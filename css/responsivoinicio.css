@@ -1,0 +1,59 @@
+@media screen and (max-width:480px){
+    .nav{
+        height: 500px;
+        
+    }
+   
+    .bg_section{
+        height: 700px;
+    }
+    .font_contenido{
+        font-size: 20px;
+    }
+   
+
+    .font_title{
+        font-size: 35px ;
+    }
+    .font_subt_title{
+        font-size:20px ;
+        
+        
+    }
+    .font_contenido{
+        font-size:18px ;
+        
+    }
+    .sub_section_1{
+        
+        height: 500px;
+        
+    }
+    .sub_section_2{
+        height: 400px;
+    }
+    .sub_section_3{
+        display: inline-block;
+        height: 600px;
+    }
+   .footer{
+    height: 200px;
+   }
+   .responsive_footer{
+    text-align: center;
+   }
+   .responsive_descubre{
+    width: 100%;
+    text-align: center;
+   
+   }
+  .sub_section_2{
+    height: 300px;
+  }
+  .bg_section{
+    height: 600px;
+  }
+  #descubre{
+    height: 400px;
+  }
+}

@@ -1,0 +1,24 @@
+@media screen and (max-width:480px){
+    .imagen{
+        display: none;
+    }
+    .carousel-caption{
+        display: none;
+    }
+    .video{
+        display: none;
+    }
+    .carta{
+        float: center;
+        padding: 0;
+    }
+    .contenido>.carta{
+        padding-left: 0;
+    }
+    .carta{
+        width: 300px;
+    }
+    .imgcard{
+        width: 300px;
+    }  
+}

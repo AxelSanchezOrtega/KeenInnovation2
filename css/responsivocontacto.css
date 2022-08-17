@@ -1,0 +1,29 @@
+@media screen and (max-width:480px){
+    .nav{
+        height: 500px;
+        
+    }
+   
+    .bg_section{
+        height: 100px;
+    }
+    
+
+    .sub_section_1{
+        width: 80%;
+    }
+
+    .responsive_contactanos{
+        height: 500px;
+    }
+
+
+
+
+   .footer{
+    height: 200px;
+   }
+   .responsive_footer{
+    text-align: center;
+   }
+}

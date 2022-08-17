@@ -1,0 +1,160 @@
+
+@import url('https://fonts.googleapis.com/css2? family= Tiro+Telugu & display=swap'); /*font: 'Tiro Telugu', serif;*/
+/*contenido*/
+@import url('https://fonts.googleapis.com/css2? familia= Exo:peso@200 &family= Tiro+Telugu & display=swap'); /* font: 'Exo', sans-serif;  */
+/*contenido*/
+@import url('https://fonts.googleapis.com/css2? family= Lato:wght@100 & display=swap');/*font: 'Lato', sans-serif;*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+/*section nav-----------------------------------------------*/
+
+.nav{
+    width: 100%;
+    height: 200px;
+    background: linear-gradient(to right, #6ebfc9ff,  #7cd0d0ff);
+}
+
+.nav ul{
+    font-size: 19px;
+    font-family: 'Tiro Telugu', serif;
+}
+
+#color_letra_nav{
+ color: black
+}
+
+li:hover{
+    color: crimson;
+}
+
+a:hover{
+    font-size: 20px;
+}
+
+
+.fondo_nav{
+    width: 95%;
+    height: 80%;
+    padding: 20px;
+    margin: 20px auto;
+    position: relative;
+    background: #b2d6efff;
+    border-radius: 20px;
+    box-shadow: 12px 8px 32px 10px rgba(179, 224, 224, 0.37);
+    backdrop-filter: blur(6px);
+    border: 2px solid rgba(10, 66, 116, 0.18);
+}
+
+/*section contenido-----------------------------------------------*/
+.contenido{
+    width: 100%;
+    background: linear-gradient(to right, #6ebfc9ff,  #7cd0d0ff);
+    padding-left:100px;
+    padding-right:100px;
+}
+.carousel{
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.carousel-caption{
+    border-radius: 20px;
+    background: #b2d6efff;
+    border-radius: 20px;
+    box-shadow: 12px 8px 32px 10px rgba(179, 224, 224, 0.1);
+    backdrop-filter: blur(6px);
+}
+
+.imagen{
+    width: 100%;
+    height: 200px;
+    background: linear-gradient(to right, #6ebfc9ff,  #7cd0d0ff);
+    padding: 50px;
+    background: #b2d6efff;
+    border-radius: 20px;
+    box-shadow: 12px 8px 32px 10px rgba(179, 224, 224, 0.37);
+    backdrop-filter: blur(6px);
+    border: 2px solid rgba(10, 66, 116, 0.18);
+}
+
+h1{
+    float: center;
+}
+
+/*footer----------------------------------------------------------*/
+.footer{
+    width: 100%;
+    height: 160px;
+    background: #b2d6efff;
+}
+.justificar{
+    font-size: 17px;
+    font-family: 'Exo', sans-serif;
+}
+h1{
+    font-family: 'Exo', sans-serif;
+    padding-top: 20px;
+}
+.video{
+    width: 50%;
+    height: 400px;
+    background: linear-gradient(to right, #6ebfc9ff,  #7cd0d0ff);
+    padding: 50px;
+    background: #b2d6efff;
+    border-radius: 20px;
+    box-shadow: 12px 8px 32px 10px rgba(179, 224, 224, 0.37);
+    backdrop-filter: blur(6px);
+    border: 2px solid rgba(10, 66, 116, 0.18);
+}
+video{
+    width: 100%;
+}
+.carta{
+    padding-left: 200px;
+    padding-bottom: 20px;
+}
+.carta,.video{
+    display: inline-block;
+}
+.hola{
+    background: linear-gradient(to right, #6ebfc9ff,  #7cd0d0ff);
+    background: #b2d6efff;
+    border-radius: 20px;
+    box-shadow: 12px 8px 32px 10px rgba(179, 224, 224, 0.37);
+    backdrop-filter: blur(6px);
+    border: 2px solid rgba(10, 66, 116, 0.18);
+}
+.imgcard{
+    width: 400px;
+}
+
+/*fonts*/
+
+.font_title{
+    font-family: 'Tiro Telugu', serif;
+    font-size: 40px;
+}
+.font_subt_title{
+    font-family: 'Exo', sans-serif;
+    font-size: 22px;
+}
+.font_contenido{
+    font-family: 'Lato', sans-serif;
+    font-size: 22px;
+
+}
+
+#font_bolder{
+    font-weight: bolder;
+}
+
+.font_size_max{
+    font-size: 30px;
+}
+

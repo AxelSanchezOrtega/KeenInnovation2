@@ -1,0 +1,232 @@
+
+@import url('https://fonts.googleapis.com/css2? family= Tiro+Telugu & display=swap'); /*font: 'Tiro Telugu', serif;*/
+/*contenido*/
+@import url('https://fonts.googleapis.com/css2? familia= Exo:peso@200 &family= Tiro+Telugu & display=swap'); /* font: 'Exo', sans-serif;  */
+/*contenido*/
+@import url('https://fonts.googleapis.com/css2? family= Lato:wght@100 & display=swap');/*font: 'Lato', sans-serif;*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+/*section nav-----------------------------------------------*/
+
+.nav{
+    width: 100%;
+    height: 200px;
+    background: linear-gradient(to right, #6ebfc9ff,  #7cd0d0ff);
+    
+}
+
+.nav ul{
+    font-size: 19px;
+    font-family: 'Tiro Telugu', serif;
+}
+
+#color_letra_nav{
+ color: black
+}
+
+li:hover{
+    color: crimson;
+}
+
+a:hover{
+    font-size: 20px;
+}
+
+
+.fondo_nav{
+    width: 95%;
+    height: 80%;
+    padding: 20px;
+    margin: 20px auto;
+    position: relative;
+    background: #b2d6efff;
+    border-radius: 20px;
+    box-shadow: 2px 5px 4px 3px rgba(124, 140, 140, 0.37);
+    backdrop-filter: blur(6px);
+    border: 2px solid rgba(10, 66, 116, 0.18);
+  
+}
+
+/*section contenido-----------------------------------------------*/
+.bg_section{
+    width: 100%;
+    height: 600px;
+    background: linear-gradient(to right, #6ebfc9ff,  #7cd0d0ff);
+    position: relative;
+    overflow: hidden;
+    
+}
+
+.sub_section{
+    width: 80%;
+    height: 80%;
+    background-color: aqua;
+    display: flex;
+    padding: 50px;
+}
+
+.font_title{
+
+    font-family: 'Tiro Telugu', serif;
+
+
+
+}
+
+.font_subt_title{
+
+    font-family: 'Exo', sans-serif;
+
+}
+
+.font_contenido{
+    
+    font-family: 'Exo', sans-serif;
+    
+}
+.content{
+    background: #b2d6efff;
+    border-radius: 40px;
+    width: 45%;
+    height: 45%;
+    display: block;
+    margin: auto;
+}
+.imagenes{
+    padding: 100px;
+    
+}
+
+.keen{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    display: flex;
+    display: inline;
+    transition: 0.5s;
+    object-fit: cover;
+    
+}
+
+.keen:hover{
+    transform: scale(1.2);
+}
+
+.kevin{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    transition: 0.5s;
+    object-fit: cover;
+    display: flex;
+    display: inline;
+}
+
+.kevin:hover{
+    transform: scale(1.2);
+}
+.esther{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    transition: 0.5s;
+    object-fit: cover;
+    display: flex;
+    display: inline;
+}
+
+.esther:hover{
+    transform: scale(1.2);
+}
+.axl{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    transition: 0.5s;
+    object-fit: cover;
+    display: flex;
+    display: inline;
+}
+
+.axl:hover{
+    transform: scale(1.2);
+}
+.gg{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    transition: 0.5s;
+    object-fit: cover;
+    display: flex;
+    display: inline;
+}
+
+.gg:hover{
+    transform: scale(1.2);
+}
+
+
+.uno{
+    width: 60%;
+    height: 65%;
+    text-align: justify;
+    display: block;
+    margin: auto;
+    font-family: 'Exo', sans-serif;     
+}
+
+.carrito{
+    background: linear-gradient(to right, #6ebfc9ff,  #7cd0d0ff);
+    width: 70%;
+    height: 70%;
+    display: block;
+    margin: auto;
+
+}
+.letritas{
+    color: rgb(255, 255, 255);
+    font-family: 'Tiro Telugu', serif;
+    
+}
+
+.contenidos{
+    background: linear-gradient(to right, #6ebfc9ff,  #7cd0d0ff);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*footer----------------------------------------------------------*/
+.footer{
+    width: 100%;
+    height: 160px;
+    background: #b2d6efff;
+  
+}
+.justificar{
+    font-size: 17px;
+    font-family: 'Exo', sans-serif;
+}
+
+
+

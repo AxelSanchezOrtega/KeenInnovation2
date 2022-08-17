@@ -1,0 +1,39 @@
+@media screen and (min-width:480px) and (max-width:780px) and (orientation:portrait){
+    
+    .nav{
+        height: 500px;
+        
+    }
+    .imagen{
+        display: none;
+    }
+    .carousel-caption{
+        display: none;
+    }
+    .video{
+        display: none;
+    }
+    .carta{
+        float: center;
+        padding: 0;
+    }
+    .carta{
+        width: 300px;
+    }
+    .imgcard{
+        width: 300px;
+    }
+    .video{
+        height: 600px;
+       }
+   .carta{
+    height: 600px;
+   }
+    .footer{
+    height: 200px;
+   }
+   .responsive_footer{
+    text-align: center;
+   }
+    
+}
